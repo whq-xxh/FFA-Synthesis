@@ -1,7 +1,9 @@
 # Non-Invasive to Invasive: Enhancing FFA Synthesis from CFP with a Benchmark Dataset and a Novel Network
-FFA Synthesis from CFP （ACM MM 2024 Workshop）
-Best Paper Award!
-Thanks to all collaborators！
+ACM MM 2024 Multimedia Computing for Health and Medicine Workshop
+
+Excited for the Best Paper Award! 🏆 🏆 🏆
+
+Thanks to all the collaborators！
 
 # Dataset 📊
 <img width="806" alt="1734093106967" src="https://github.com/user-attachments/assets/77d138ab-7ad1-4656-9d58-a03737794249" />
