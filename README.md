@@ -12,14 +12,16 @@ Thanks to all the collaborators！
 We mentioned our efforts to construct a relevant dataset. We are pleased to offer access to this Multi-disease Paired Ocular Synthesis (MPOS)
 dataset. We invite researchers working on **Image synthesis**, **Retinal Disease Diagnosis**, and **Medical Imaging and Analysis** to make use of this valuable resource. 
 
-Please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is needed to download the dataset: **1) Use your google email to apply for the download permission ([Google Drive]() [BaiduPan]()). We will get back to you within three days, so please don't send them multiple times. We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
+Please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is needed to download the dataset: **1) Use your google email to apply for the download permission ([OneDrive](https://hkustgz-my.sharepoint.com/my?id=%2Fpersonal%2Fhwang007%5Fconnect%5Fhkust%2Dgz%5Fedu%5Fcn%2FDocuments%2F24MM%2DCFP%2DFFA&sortField=FileLeafRef&isAscending=true) [BaiduPan](https://pan.baidu.com/s/1NvwP1LvYAUKyvd5VdwZTCA)). We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
 
     Name/Homepage/Google Scholar: (Tell us who you are.)
     Primary Affiliation: (The name of your institution or university, etc.)
     Job Title: (E.g., Professor, Associate Professor, Ph.D., etc.)
     Affiliation Email: (the password will be sent to this email, we just reply to the email which is the end of "edu".)
     How to use: (Only for academic research, not for commercial use or second-development.)
+**The data provided cannot be forwarded to others, and only individuals with approved applications are authorized to use them.**
 
+**Thanks for understanding and cooperation!**
 
 # Citation 📖
 
